@@ -111,7 +111,7 @@ mvn test -Dtest=GetRequestTest#getAllPosts_shouldReturn200AndNonEmptyList
 Başarılı çalışma sonunda Maven çıktısı:
 
 ```
-[INFO] Tests run: 15, Failures: 0, Errors: 0, Skipped: 0
+[INFO] Tests run: 18, Failures: 0, Errors: 0, Skipped: 0
 [INFO] BUILD SUCCESS
 ```
 
